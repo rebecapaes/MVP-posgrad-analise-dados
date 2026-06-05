@@ -37,12 +37,13 @@ Foram desenvolvidos os seguintes gráficos:
 - Stacked Bar Chart associado a um Scatterplot
 - Stacked Bar Chart associado a um Line Chart
 
-
 ### **CONCLUSÃO**
 
-A partir dos dados coletados, o resultado é que os tecidos com custos mais acessíveis e menor impacto ambiental são produzidos pela Alemanha, enquanto o Brasil é o pior país nesses parâmetros.
-Não há tecidos que têm uma evolução estagnada em relação ambiental, todos estão em constante evolução. Não existe uma correlação direta do peso dos tecidos com seus impactos ambientais, a gramatura de cada um não é uma justificativa para maior impacto.
-Acessórios como bolsas e chapéus precisam de mais atenção em relação ao impacto ambiental, pois são os que tem maiores indices das métricas de sustentabilidade.
+As principais conclusões foram:
+Alemanha como país que melhor combina menor custo e menor impacto ambiental. 
+Acessórios como bolsas e chapéus precisam de mais investimento na melhoria do impacto ambiental.
+
+<img width="489" height="289" alt="image" src="https://github.com/user-attachments/assets/6c0c6c90-373b-40ef-aea2-8c59c28ffed0" />
 
 Apesar dessas conclusões, há necessidade de mais dados para obter respostas mais realistas. 
 
