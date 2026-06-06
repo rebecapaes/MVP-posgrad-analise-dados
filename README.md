@@ -40,10 +40,11 @@ Foram desenvolvidos os seguintes gráficos:
 ### **CONCLUSÃO**
 
 As principais conclusões foram:
-Alemanha como país que melhor combina menor custo e menor impacto ambiental. 
-Acessórios como bolsas e chapéus precisam de mais investimento na melhoria do impacto ambiental.
+- Alemanha como país que melhor combina menor custo e menor impacto ambiental. 
 
-<img width="489" height="289" alt="image" src="https://github.com/user-attachments/assets/6c0c6c90-373b-40ef-aea2-8c59c28ffed0" />
+<img width="489" height="289" alt="image" src="https://github.com/user-attachments/assets/453e8789-65ac-4072-8c2d-b26eba7010f1" />
 
-Apesar dessas conclusões, há necessidade de mais dados para obter respostas mais realistas. 
+- Acessórios como bolsas e chapéus precisam de mais investimento na melhoria do impacto ambiental.
+
+<img width="990" height="389" alt="image" src="https://github.com/user-attachments/assets/b808cdea-900a-4d7d-be8c-63864d53172b" />
 
